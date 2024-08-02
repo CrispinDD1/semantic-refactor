@@ -1,31 +1,5 @@
-## User Story 
+# semantic-refactor
 
-* AS A marketing agency
+## Description 
 
-* I WANT a codebase that follows accesssibility standards
-
-* SO THAT our own site is optimized for search engines
-
-## Acceptance Criteria 
-
-* GIVEN a webpage meets accessibility standards
-
-* WHEN I view the source code
-
-* THEN I find semantic HTML elements
-
-* WHEN I view the structure of the HTML elements
-
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-
-* WHEN I view the image elements
-
-* THEN I find accessible alt attributes
-
-* WHEN I view the heading attributes
-
-* THEN they fall in sequential order
-
-* WHEN I view the title element
-
-* THEN I find a concise, descriptive title
+As a bootcamp student, I want to become more familiar with reading code and understanding semantic structure. In this repo you will find a refactored version of a starter code used to familirize myself with html and css. I altered the code using semantic elements and addressed some webpage errors along with formating the html into an organized fashion. 
